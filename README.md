@@ -9,3 +9,4 @@ secret number - gives you 5 guesses before it tells you what number is generated
 
 script - intro to python while learning ethical hacking. notes in script
 terrible scanner - python port scanner. quick build. first try at it.
+tcpclient - simple port listening socket that tells you what IP connects. active until you exit.
